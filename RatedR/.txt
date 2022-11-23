@@ -1,0 +1,8 @@
+req.param:-function basically returns the value of param name when present.
+Ex:-https://campk12.com/session/web-dev-backend-1-senior/:id/student
+Here :id is the param.
+req.query:-It is an object containing the property for each query string parameter in the route.
+Ex:-https://www.bing.com/search?q=mumbai+tourist+places
+Here after question mark are query.
+req.body:- it is an object that will allow you to access data.
+Ex:-It 
